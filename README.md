@@ -1,8 +1,9 @@
 # Olá, me chamo Elisson!
 
-Sou desenvolvedor(a) full-stack com paixão por resolver problemas e criar soluções eficientes. Adoro aprender novas tecnologias e trabalhar em equipe. Atualmente, estou focado(a) em desenvolvimento Back-End.
+Sou desenvolvedor(a) full-stack com paixão em aprender a resolver problemas e criar soluções eficientes.
+Aprendendo a desenrolar novas tecnologias e trabalhar em equipe. Atualmente, estou focado(a) em desenvolvimento Backend.
 
-Buscando novas oportunidades para colaborar em projetos desafiadores.
+Buscando novas oportunidades para colaborar em projetos reais e desafiadores.
 
 ## Habilidades
 **Frontend**: Next.JS, React.JS
